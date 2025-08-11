@@ -40,7 +40,7 @@
     font-weight: 600;
 }
 
-/* Menu links */
+/* Unordered lists */
 .navbar-links {
     list-style: none;
     display: flex;
@@ -58,7 +58,7 @@
 
 .navbar-links li a:hover,
 .dropdown-toggle:hover {
-    background-color: #444;
+    background-color: rgb(171, 220, 220);
     border-radius: 4px;
 }
 

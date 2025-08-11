@@ -12,8 +12,7 @@ function NavBar(){
     return(
         <nav className="navbar">
             <div className="navbar-container">
-
-                {/* Brand */}
+                
                 <div className="navbar-brand">
                     <img src={ logo } width={ 34 } />
                     <p>Peter Szepesi</p>
