@@ -1,5 +1,5 @@
 import type { ReactNode } from "react";
-import NavBar from "../../components/navbar/NavBar";
+import NavBar from "../../components/navbar/NavBar.tsx";
 import Footer from "../../components/footer/Footer";
 
 function MainLayout({ children }: { children: ReactNode }){
