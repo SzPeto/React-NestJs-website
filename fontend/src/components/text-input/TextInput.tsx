@@ -4,8 +4,9 @@ function TextInput({ value, onChange }: TextInputProps){
 
     return(
         <input 
+            type="text"
             value={ value }
-            onChange={ (e) => onChange(e) }
+            onChange={ onChange }
         />
     );
 }
