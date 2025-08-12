@@ -2,8 +2,6 @@ import "./NavBar.css";
 import logo from "../../assets/Logo - no background.png";
 import { useState } from "react";
 
-// TODO
-
 function NavBar(){
 
     const [menuOpen, setMenuOpen] = useState(false);
